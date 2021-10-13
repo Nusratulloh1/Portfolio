@@ -1,86 +1,86 @@
 export default {
     works: [
-        // {
-        //     overline: "Desktop Application",
-        //     title: "Believers Sword App",
-        //     des:
-        //         "Focus on what matters instead of fighting with your mind. Whether you're new to this app or a seasoned user, Believers Sword App is a simple application that helps you study bible with extra features.",
-        //     techs: ["electron", "electron.builder", "Vue3", "windiCss"],
-        //     links: [
-        //         {
-        //             link:
-        //                 "https://github.com/Bible-Projects/believers-sword-app",
-        //             icon: "github",
-        //             tooltip: "Open in Github"
-        //         },
-        //         {
-        //             link: "https://believers-sword-app.herokuapp.com/",
-        //             icon: "link",
-        //             tooltip: "Open Link"
-        //         }
-        //     ],
-        //     imageLink: "https://believers-sword-app.herokuapp.com/",
-        //     img: "https://i.imgur.com/FhlGhQMl.png"
-        // },
-        // {
-        //     overline: "Documentation Project",
-        //     title: "Laravel MongoDB Docs",
-        //     des:
-        //         "Documentation about laravel with mongodb, this package adds functionalities to the Eloquent model and Query builder for MongoDB, using the original Laravel API. This library extends the original Laravel classes, so it uses exactly the same methods.",
-        //     techs: ["vuepress", "vue"],
-        //     links: [
-        //         {
-        //             link:
-        //                 "https://github.com/BroJenuel-Youtube/laravel-mongodb",
-        //             icon: "github",
-        //             tooltip: "Open in Github"
-        //         },
-        //         {
-        //             link: "https://laravel-mongodb.netlify.app/",
-        //             icon: "link",
-        //             tooltip: "Open Link"
-        //         }
-        //     ],
-        //     imageLink: "https://laravel-mongodb.netlify.app/",
-        //     img: "https://i.imgur.com/XUQZQLCl.png"
-        // },
-        // {
-        //     overline: "Portfolio Website",
-        //     title: "Portfolio Website",
-        //     des:
-        //         "A very simple website that I made for a friend. This is a non profit organization or a company, its a personal website by a client.",
-        //     techs: ["vue", "javascript"],
-        //     links: [
-        //         {
-        //             link: "https://kateawisan.ml",
-        //             icon: "link",
-        //             tooltip: "Open Link"
-        //         }
-        //     ],
-        //     imageLink: "https://kateawisan.ml",
-        //     img: "https://i.imgur.com/v4uiq8Al.png"
-        // },
-        // {
-        //     overline: "Search Engine Project",
-        //     title: `Get GIF's`,
-        //     des:
-        //         "With this website, you can search the wide internet to get GIFs that you can download for your content.",
-        //     techs: ["vue", "API", "javascript"],
-        //     links: [
-        //         {
-        //             link: "https://github.com/BroJenuel-Youtube/get-gifs",
-        //             icon: "github",
-        //             tooltip: "Open in Github"
-        //         },
-        //         {
-        //             link: "https://www.getgifs.ml/",
-        //             icon: "link",
-        //             tooltip: "Open Link"
-        //         }
-        //     ],
-        //     imageLink: "https://www.getgifs.ml/",
-        //     img: "https://i.imgur.com/W2LuAFXl.png"
-        // },
+        {
+            overline: "Web Application",
+            title: "SCO Center's website",
+            des:
+                "This website is specially prepared for the people's diplomacy of the Shanghai Cooperation Organization. Here you can get news, video Gallery, Photo Gallery, Center documents, events and interesting information about the organization",
+            techs: ["Bootstrap", "JavaScript", "Vue2", "API"],
+            links: [
+                {
+                    link:
+                        "https://github.com/Nusratulloh1/ShanhaiOrganization",
+                    icon: "github",
+                    tooltip: "Open in Github"
+                },
+                {
+                    link: "https://scocenter.uz/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://scocenter.uz/",
+            img: "https://i.imgur.com/Wi4dh9l.jpg"
+        },
+        {
+            overline: "Logistic Project",
+            title: "Fastlogz - logistics",
+            des:
+                "This program was developed to manage the movement of trucks. The name of the program was called Fastlogz. This Project was ordered by the company Western America Express. This project was designed to be very easy to work with Logbook",
+            techs: ["tailwind css", "vuesax", "vue", "auth", "API"],
+            links: [
+                {
+                    link:
+                        "https://github.com/Nusratulloh1/FastLogs",
+                    icon: "github",
+                    tooltip: "Open in Github"
+                },
+                {
+                    link: "https://fastslogz.napaautomotive.uz/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://fastslogz.napaautomotive.uz/",
+            img: "https://i.imgur.com/Bp2W8Sg.jpg"
+        },
+        {
+            overline: "Web Application",
+            title: "U-rent rent car booking",
+            des:
+                "The U-rent project was developed for those who want to rent a car.  In this project, you can quickly and conveniently rent the car you want.",
+            techs: ["vue", "javascript", "design", "i18n"],
+            links: [
+                {
+                    link: "https://u-rent.uz/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://u-rent.uz/",
+            img: "https://imgur.com/m24ssVN.jpg"
+        },
+        {
+            overline: "Tourism Website",
+            title: `Zaamin Resort`,
+            des:
+                "This project was developed on the basis of the Order of the Zaamin tourism zone. This website is able to give tourists a beautiful interpretation of the Zaamin tourist zone",
+            techs: ["vue", "API", "javascript"],
+            links: [
+                {
+                    link: "https://github.com/Nusratulloh1/zamin",
+                    icon: "github",
+                    tooltip: "Open in Github"
+                },
+                {
+                    link: "http://zamintourism.uz/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "http://zamintourism.uz/",
+            img: "https://imgur.com/mIzqcxV.jpg"
+        },
         // {
         //     overline: "Personal Website",
         //     title: "Portfolio",
@@ -102,26 +102,47 @@ export default {
         //     imageLink: "https://jenuelganawed.com",
         //     img: "https://i.imgur.com/ygEsq4Kl.png"
         // },
-        // {
-        //     overline: "Personal Blog",
-        //     title: "Bro Jenuel Blog",
-        //     des:
-        //         "I built a blog for my self, where I can post what I learned and upload my journey as a developer. I post 1 to 2 times a week.",
-        //     techs: ["vue", "nuxtjs", "javaScript", "typeScript"],
-        //     links: [
-        //         {
-        //             link: "https://github.com/BroJenuel/BroJenuelBlog",
-        //             icon: "github",
-        //             tooltip: "Open in Github"
-        //         },
-        //         {
-        //             link: "https://brojenuelblog.ml",
-        //             icon: "link",
-        //             tooltip: "Open Link"
-        //         }
-        //     ],
-        //     imageLink: "https://brojenuelblog.ml",
-        //     img: "https://i.imgur.com/vwwFfRUl.png"
-        // }
+        {
+            overline: "Start Up Website",
+            title: "Addboard",
+            des:
+                "I think that this project will create new opportunities for employers and workers. Here any person can use hired workers for their personal needs",
+            techs: ["vue", "Yandex Map", "javaScript", "FireBase"],
+            links: [
+                {
+                    link: "https://github.com/Nusratulloh1/FindWorkerAround",
+                    icon: "github",
+                    tooltip: "Open in Github"
+                },
+                {
+                    link: "https://i.imgur.com/FO7rUjN.mp4",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://i.imgur.com/FO7rUjN.mp4",
+            img: "https://i.imgur.com/NxyyUEz.jpg"
+        },
+        {
+            overline: "Admin Dashboard",
+            title: "Online school",
+            des:
+                "This is the control panel of the online training center, I developed it with the help of the vuetify library",
+            techs: ["vue", "vuetify", "javaScript", "dashboard"],
+            links: [
+                {
+                    link: "https://github.com/Nusratulloh1/OnlineSchoolAdminDashboard",
+                    icon: "github",
+                    tooltip: "Open in Github"
+                },
+                {
+                    link: "https://online-school-dashboard.netlify.app/#/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://online-school-dashboard.netlify.app/#/",
+            img: "	https://i.imgur.com/o5nAlv8.jpg"
+        }
     ]
 };

@@ -45,7 +45,9 @@
                         {{ mySkill.des }}
                     </div>
                 </div>
-                <div class="text-size-14px flex items-center gap-5px">
+                <div class="text-size-14px flex items-center gap-5px"
+                   style="flex-wrap: wrap"
+                >
                     <div
                         class="bg-dark-900 bg-opacity-50 p-5px rounded-md opacity-80 hover:opacity-100 cursor-pointer"
                         v-for="tool in mySkill.tools"

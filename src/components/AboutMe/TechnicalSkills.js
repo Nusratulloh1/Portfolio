@@ -43,7 +43,7 @@ export const mySkills = [
     },
     {
         icon: "<i class='bx bxs-file-css' ></i>",
-        tech: "HTML/CSS",
+        tech: "HTML/CSS/SCSS",
         des: "I write semantic markup with accessibility in mind. I keep my CSS manageable and also slowly following BEM conventions/rules.",
         yearStarted: 2018,
         tools: [
