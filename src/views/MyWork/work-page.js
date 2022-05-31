@@ -1,10 +1,10 @@
 export default {
     works: [
         {
-            overline: "Aaron",
-            title: "Aaron Academy",
+            overline: "SEO Dashboard",
+            title: "Management Dashboard",
             des:
-                `Developed aaron web app from scratch.`,
+                ``,
             techs: ["JavaScript", "vue", "vite", "pinia", 'tailwind', 'others'],
             links: [
                 // {
@@ -14,12 +14,12 @@ export default {
                 //     tooltip: "Open in Github"
                 // },
                 {
-                    link: "http://akfagroup.uz",
+                    link: "http://akfagroup.com",
                     icon: "link",
                     tooltip: "Open Link"
                 }
             ],
-            imageLink: "http://akfagroup.uz",
+            imageLink: "http://akfagroup.com",
             img: "https://i.imgur.com/l70Upta.png"
         },
         {
