@@ -20,12 +20,12 @@
                         <span>LinkedIn</span>
                     </div>
                 </li>
-                <li>
+                <!-- <li>
                     <div @click="openSite('https://github.com/Nusratulloh1/')" class="a-link">
                         <div class="text-size-25px"><i class="bx bxl-github"></i></div>
                         <span>GitHub</span>
                     </div>
-                </li>
+                </li> -->
                 <li>
                     <div @click="openSite('https://twitter.com/')" class="a-link">
                         <div class="text-size-25px"><i class="bx bxl-twitter"></i></div>

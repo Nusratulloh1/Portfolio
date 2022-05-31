@@ -1,5 +1,4 @@
-import dapayan2018 from "./experience/dapayan2018";
-import ilearn2018 from "./experience/ilearn2018";
+
 import utalk2019 from "./experience/utalk2019";
 
 const akfa = {
@@ -9,10 +8,19 @@ const akfa = {
     workStart: 'Oct. 2021',
     workUntil: '<span class="present-work">Present</span>',
     des:
-        "Full Time <b>Front-end Developer</b> at akfagroup. I focus on Front-end. We develope  exceptional apps/websites. <br><br> <a href='https://akfagroup.com/'>AKFA Group of Companies</a> Over the years of its existence, AKFA has proven to be a trustworthy and responsible manufacturer, whose products you can rely on.",
+        "Full Time <b>Front-end Developer</b> at akfagroup. I focus on Front-end. We develope  exceptional apps/websites. <br><br>Developing sales system, 3d model marketplace, management system and other web apps from scratch with a team. <br /> <br /> Technologies: JavaScript, Vue Js, Nuxt js,HTML'CSS(SCSS, LESS)",
     url: "https://akfagroup.com/"
 }
-
+const evis = {
+    position: 'Front-end Developer',
+    tab: 'EVIS Data MarketPlace',
+    company: 'EVIS Data MarketPlace',
+    workStart: 'Jul. 2021',
+    workUntil: 'Sep. 2021',
+    des:
+        "Full Time <b>Front-end developer</b> at evis. I focus on Front-end. We develope and manage crypto marketplace. <br><br> Developed part of the crypto marketplace with 4 front end teammates. <br /> <br /> Team size: 15+",
+    url: "https://evis.market/en/"
+}
 const webinarinc = {
     position: 'Web Developer',
     tab: 'NAPA Automotive',
@@ -20,22 +28,7 @@ const webinarinc = {
     workStart: 'Nov. 2020',
     workUntil: 'Oct. 2021',
     des:
-        "Full Time <b>Web Developer</b> at napaautomotive. I focus on Front-end. We develope and manage exceptional apps/websites. <br><br> <a href='https://napaautomotive.uz/ru/about'>NAPA Automotive</a> has a passion for providing industry-leading automotive sales training and innovative tools. NAPA was born! Founded in 2017, NAPA takes decades of experience in the automotive industry and translates it into training and tools that provide the insights, tips and techniques that allow dealerships across the United States to stand at the forefront of their marketplace.",
+        "Full Time <b>Web Developer</b> at napaautomotive. I focus on Front-end. We develope and manage exceptional apps/websites. <br><br>Developed travel, news, media, museum  web apps/websites. <br> Developed logistic project (Eld System). <br /> Mentored 5+ internships. <br /> <br /> Technologies: JavaScript, React Js, Vue Js",
     url: "https://napaautomotive.uz/ru"
 }
-
-const kcp = {
-    position: 'IT Student',
-    tab: 'ICTSchool',
-    company: 'ICTSchool',
-    workStart: 'Sep. 2013',
-    workUntil: 'April 2019',
-    des: `I have been a Full-time student at <a href='https://ictschool.uz/' target='_blank'>IT School of the Uzbekistan</a>`,
-    url: "https://ictschool.uz/",
-    certificate: {
-        link:
-            "https://drive.google.com",
-        label: "Show Certificate of Fulfillment"
-    }
-}
-export default [akfa, webinarinc, utalk2019, dapayan2018, ilearn2018, kcp]
+export default [akfa,utalk2019, evis, webinarinc]

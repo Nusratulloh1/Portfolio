@@ -21,7 +21,7 @@
         </transition>
     </div>
     <ul v-show="false">
-        <li v-for="(skill, i) in skillList" v-scrollanimation :key="skill.text" @click="openDialog(skill)" :style="'transition-delay: ' + i * 50 + 'ms'">
+        <li v-for="(skill, i) in skillList" v-scrollanimation :key="skill.text"  :style="'transition-delay: ' + i * 50 + 'ms'">
             <div>
                 <Icon class="skill-icon" :name="skill.icon" :size="20" />
                 {{ skill.text }}
@@ -52,7 +52,7 @@
                         class="bg-dark-900 bg-opacity-50 p-5px rounded-md opacity-80 hover:opacity-100 cursor-pointer"
                         v-for="tool in mySkill.tools"
                         :key="tool.text"
-                        @click="openDialog(tool)"
+               
                     >
                         {{ tool.text }}
                     </div>

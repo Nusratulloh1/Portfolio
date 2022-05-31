@@ -7,7 +7,7 @@ export const mySkills = [
         icon: "<i class='bx bxl-javascript' ></i>",
         tech: "JavaScript",
         des: "It’s my main language and I know most of it. I focus on building single-page apps with attention to code quality and best practices.",
-        yearStarted: 2019,
+        yearStarted: 2020,
         tools: [
             {
                 icon: `<i class='bx bxl-vuejs' ></i>`,
@@ -45,7 +45,7 @@ export const mySkills = [
         icon: "<i class='bx bxs-file-css' ></i>",
         tech: "HTML/CSS/SCSS",
         des: "I write semantic markup with accessibility in mind. I keep my CSS manageable and also slowly following BEM conventions/rules.",
-        yearStarted: 2018,
+        yearStarted: 2019,
         tools: [
             {
                 icon: "<i class='bx bxl-tailwind-css' ></i>",
@@ -89,7 +89,7 @@ export const mySkills = [
         icon: "<i class='bx bxl-shopify' ></i>",
         tech: "Tools",
         des: "Tools I used for Front-end Development. There are IDEs, Version control, Package management tools, Bundlers.",
-        yearStarted: 2019,
+        yearStarted: 2020,
         tools: [
             {
                 icon: '<img src="https://nafie.webrouk.com/html/assets/images/skills/ajax.png" />',
