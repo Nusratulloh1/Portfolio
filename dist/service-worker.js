@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.10fedf9e6ea752156c442e41799db7cd.js"
+  "/precache-manifest.290ea9f34ae7dde553a813715d83fa77.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nusratullo-portfolio"});

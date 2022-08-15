@@ -1,11 +1,14 @@
 export default {
     works: [
         {
-            overline: "SEO Dashboard",
-            title: "Management Dashboard",
+            overline: "Minbar.uz",
+            title: "Social media",
             des:
-                ``,
-            techs: ["JavaScript", "vue", "vite", "pinia", 'tailwind', 'others'],
+                `- Implementation of new features based on requirements <br>
+                - Collaborate with back-end developers and web designers to improve usability <br>
+                - Ensuring web design is optimized for smartphones
+                `,
+            techs: ["JavaScript", "vue", "nuxt.js", "SSR", 'tailwind', 'auth'],
             links: [
                 // {
                 //     link:
@@ -14,19 +17,44 @@ export default {
                 //     tooltip: "Open in Github"
                 // },
                 {
-                    link: "http://akfagroup.com",
+                    link: "http://minbar.uz",
                     icon: "link",
                     tooltip: "Open Link"
                 }
             ],
-            imageLink: "http://akfagroup.com",
-            img: "https://i.imgur.com/l70Upta.png"
+            imageLink: "http://minbar.uz",
+            img: "https://i.imgur.com/Ab3lv1e.png"
+        },
+        {
+            overline: "SEO Dashboard",
+            title: "Management Dashboard",
+            des:
+                `- Developed Dashboard for track, analyze, and display key performance indicators, metrics, and data points of company with a huge data. 30+ screen pages`,
+            techs: ["JavaScript", "vue", "vite", "pinia", 'tailwind', 'CHart.js'],
+            links: [
+                // {
+                //     link:
+                //         "https://github.com/Nusratulloh1/FastLogs",
+                //     icon: "github",
+                //     tooltip: "Open in Github"
+                // },
+                {
+                    link: "https://dashboard.akfagroup.com/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://dashboard.akfagroup.com/",
+            img: "https://i.imgur.com/gDNuD67.png"
         },
         {
             overline: "Aaron",
             title: "Aaron Academy",
             des:
-                `Developed aaron web app from scratch.`,
+                `- Developed corporate web application for kids academy from scratch (3 days) with reponsive custom ui components. <br>
+                - Ensuring web design is optimized for smartphones <br>
+                - Developing and maintaining the user interface
+                `,
             techs: ["JavaScript", "vue", "nuxt", "API", 'responsive', 'others'],
             links: [
                 // {
@@ -45,10 +73,13 @@ export default {
             img: "https://i.imgur.com/oH9wCYv.png"
         },
         {
-            overline: "Imzo Dashboard",
-            title: "Imzo dashboard",
+            overline: "Imzo",
+            title: "Imzo marketplace Dashboard",
             des:
-                `Developed dashboard for imzo application`,
+                `- Optimized code quality up to 15%. <br>
+                - Fixed bugs of reusable components, built updates, modules with Vue Fremwork <br>
+                - Supporting and fixing legency code problems
+                `,
             techs: ["JavaScript", "auth", "vue", "API", 'Chart JS', 'others'],
             links: [
                 // {
@@ -70,7 +101,7 @@ export default {
             overline: "Upgrade",
             title: "Upgrade - 3d model marketplace",
             des:
-                `Upgrade - 3d model marketplace`,
+                `- Developed Frontend for 3d model marketplace with custom ui components. <br>- Successfully released platform to production in 2 sprints (1 months), before the deadline`,
             techs: ["JavaScript", "auth", "vue", "comments", "API", 'i18n', 'others'],
             links: [
                 // {
@@ -92,9 +123,9 @@ export default {
             overline: "E-Quick",
             title: "E-Quick - Sales system",
             des:
-                `This sales system offers a wide range of product sales opportunities
-                for the company. All sales processes will be through the same
-                system . There are dealer, sales , Storekeeper, admin and super admin roles here.`,
+                `-      Developed B2B with a role-based security approach for factories with 1000 orders per day. <br>
+                - Optimizing / Adding new features <br>
+                `,
             techs: ["JavaScript", "auth", "vue", "roles", "API", 'i18n', 'others'],
             links: [
                 // {
@@ -236,22 +267,22 @@ export default {
         //     imageLink: "https://jenuelganawed.com",
         //     img: "https://i.imgur.com/ygEsq4Kl.png"
         // },
-        {
-            overline: "Start Up Website",
-            title: "Addboard",
-            des:
-                "I think that this project will create new opportunities for employers and workers. Here any person can use hired workers for their personal needs",
-            techs: ["vue", "Yandex Map", "javaScript", "FireBase"],
-            links: [
-                {
-                    link: "https://i.imgur.com/FO7rUjN.mp4",
-                    icon: "link",
-                    tooltip: "Open Link"
-                }
-            ],
-            imageLink: "",
-            img: "https://i.imgur.com/NxyyUEz.jpg"
-        },
+        // {
+        //     overline: "Start Up Website",
+        //     title: "Addboard",
+        //     des:
+        //         "I think that this project will create new opportunities for employers and workers. Here any person can use hired workers for their personal needs",
+        //     techs: ["vue", "Yandex Map", "javaScript", "FireBase"],
+        //     links: [
+        //         {
+        //             link: "https://i.imgur.com/FO7rUjN.mp4",
+        //             icon: "link",
+        //             tooltip: "Open Link"
+        //         }
+        //     ],
+        //     imageLink: "",
+        //     img: "https://i.imgur.com/NxyyUEz.jpg"
+        // },
         // {
         //     overline: "Admin Dashboard",
         //         title: "Online school",
