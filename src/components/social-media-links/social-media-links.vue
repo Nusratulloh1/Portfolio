@@ -9,7 +9,7 @@
                     </div>
                 </li>
                 <li>
-                    <div @click="openSite('https://www.linkedin.com/in/nusrat-axunov-2a4b65210/')" class="a-link">
+                    <div @click="openSite('https://www.linkedin.com/in/nusrat-axunov/')" class="a-link">
                         <div class="text-size-25px"><i class="bx bxl-linkedin"></i></div>
                         <span>LinkedIn</span>
                     </div>
