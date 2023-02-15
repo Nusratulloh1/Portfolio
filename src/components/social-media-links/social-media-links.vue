@@ -3,6 +3,18 @@
         <div class="social-media social-media-orientation social-media-placement">
             <ul v-scrollanimation class="social-media-list">
                 <li>
+                    <div @click="openSite('https://t.me/nusratullo_a')" class="a-link">
+                        <div class="text-size-25px"><i class="bx bxl-telegram"></i></div>
+                        <span>Telegram</span>
+                    </div>
+                </li>
+                <li>
+                    <div @click="openSite('https://www.linkedin.com/in/nusrat-axunov-2a4b65210/')" class="a-link">
+                        <div class="text-size-25px"><i class="bx bxl-linkedin"></i></div>
+                        <span>LinkedIn</span>
+                    </div>
+                </li>
+                <li>
                     <div @click="openSite('https://www.facebook.com/nusrat.ahunov.5/')" class="a-link">
                         <div class="text-size-25px"><i class="bx bxl-facebook"></i></div>
                         <span>Facebook</span>
@@ -15,9 +27,9 @@
                     </div>
                 </li>
                 <li>
-                    <div @click="openSite('https://www.linkedin.com/in/nusrat-axunov-2a4b65210/')" class="a-link">
-                        <div class="text-size-25px"><i class="bx bxl-linkedin"></i></div>
-                        <span>LinkedIn</span>
+                    <div @click="openSite('https://gitlab.com/Nusrat1')" class="a-link">
+                        <div class="text-size-25px"><i class="bx bxl-gitlab"></i></div>
+                        <span>GitLab</span>
                     </div>
                 </li>
                 <!-- <li>
@@ -26,12 +38,6 @@
                         <span>GitHub</span>
                     </div>
                 </li> -->
-                <li>
-                    <div @click="openSite('https://twitter.com/')" class="a-link">
-                        <div class="text-size-25px"><i class="bx bxl-twitter"></i></div>
-                        <span>Twitter</span>
-                    </div>
-                </li>
             </ul>
         </div>
         <div v-scrollanimation class="email-media social-media-orientation social-media-placement">
