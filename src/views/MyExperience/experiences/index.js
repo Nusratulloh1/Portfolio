@@ -1,12 +1,14 @@
 
 import utalk2019 from "./experience/utalk2019";
+import uniqres from "./experience/uniqres";
+import digrev from "./experience/digrev";
 
 const akfa = {
     position: 'Frontend Developer',
     tab: 'AKFA Group of Companies',
     company: 'AKFA Group of Companies',
     workStart: 'Oct. 2021',
-    workUntil: '<span class="present-work">Present</span>',
+    workUntil: 'Oct 2022',
     des:
         `Full Time <b>Front-end Developer</b> at akfagroup. 
         - Developed B2B with a role-based security approach for factories with 1000 orders per day. <br>
@@ -57,4 +59,4 @@ const webinarinc = {
         Technologies: JavaScript · CSS · Yandex Map · Vuetify · Google Maps · Tailwind · SASS · Webpack · Vuesax · Vue.js · Vuex · Bootstrap · HTML5`,
     url: "https://napaautomotive.uz/ru"
 }
-export default [akfa,utalk2019, evis, webinarinc]
+export default [ uniqres, digrev, akfa,utalk2019, evis, webinarinc]

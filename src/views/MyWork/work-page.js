@@ -1,6 +1,83 @@
 export default {
     works: [
         {
+            overline: "Tezishbor.uz",
+            title: "HR platform",
+            des:
+                `-Developed admin dashboard and employer side for hr platform teshishbor.uz which has 50.000+ applicants. <br>
+                - Collaborate with back-end developers and web designers to improve usability <br>
+
+                `,
+            techs: ["JavaScript", "Vue", "Nuxt.js", "socket.io", 'tailwind', 'SCSS'],
+            links: [
+                // {
+                //     link:
+                //         "https://github.com/Nusratulloh1/FastLogs",
+                //     icon: "github",
+                //     tooltip: "Open in Github"
+                // },
+                {
+                    link: "https://tezishbor.uz/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://tezishbor.uz/",
+            img: "https://i.imgur.com/OCCm3kk.jpg"
+        },
+        {
+            overline: "O'zgrolizing",
+            title: "GPS Monitoring",
+            des:
+                `
+                - Fixed bugs of reusable components, built updates, modules with Vue Fremwork <br>
+                - Supporting and fixing legency code problems <br>
+                -Worked gps monitoring platform with huge real time data, used maps(yandex, google) and web socket to show trucks. <br>
+                -Used Polyline, Polygon, Circle (also editors) and etc...
+                `,
+            techs: ["JavaScript", "Vue 3", "Web socket", "Yandex Maps", 'Google Maps'],
+            links: [
+                // {
+                //     link:
+                //         "https://github.com/Nusratulloh1/FastLogs",
+                //     icon: "github",
+                //     tooltip: "Open in Github"
+                // },
+                {
+                    link: "https://pp.uzal.uz/",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "https://pp.uzal.uz/",
+            img: "https://i.imgur.com/xcqQMD9.jpg"
+        },
+        {
+            overline: "Workbase.uz",
+            title: "Work in Uzbekistan",
+            des:
+                `- Implementation of new features based on requirements <br>
+                - Collaborate with back-end developers and web designers to improve usability <br>
+                - Ensuring web design is optimized for smartphones
+                `,
+            techs: ["JavaScript", "Vue 3", "Composition API", "Vite.js", 'tailwind'],
+            links: [
+                // {
+                //     link:
+                //         "https://github.com/Nusratulloh1/FastLogs",
+                //     icon: "github",
+                //     tooltip: "Open in Github"
+                // },
+                {
+                    link: "http://workbase.uz",
+                    icon: "link",
+                    tooltip: "Open Link"
+                }
+            ],
+            imageLink: "http://workbase.uz",
+            img: "https://i.imgur.com/HUF6Mp7.jpg"
+        },
+        {
             overline: "Minbar.uz",
             title: "Social media",
             des:
