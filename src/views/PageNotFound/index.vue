@@ -2,6 +2,9 @@
     <div v-scrollanimation class="page-not-found">
         <h1>OOPS!</h1>
         <p>404 - THE PAGE CAN'T BE FOUND</p>
+        <router-link to="/contact" class="bg-[var(--primary)] mt-5 px-25px py-10px rounded-md text-[var(--background)] font-600 opacity-90 hover:opacity-100">
+          Get In Touch
+       </router-link>
     </div>
 </template>
 <style lang="scss">
